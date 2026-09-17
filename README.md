@@ -1,0 +1,2 @@
+# GoodAutoRespawn
+Резиторий плагина GoodAutoRespawn.
